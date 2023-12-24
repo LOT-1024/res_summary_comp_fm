@@ -62,7 +62,7 @@ const App = () => {
                 >
                     Frontend Mentor
                 </a>
-                . Coded by <a href="#">LOT-1024</a>.
+                . Coded by <a href="https://github.com/LOT-1024/res_summary_comp_fm" target='_blank'>LOT-1024</a>.
             </div>
         </main>
     )
